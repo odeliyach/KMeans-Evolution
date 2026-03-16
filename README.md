@@ -60,8 +60,6 @@ Clustering-Algorithms-Lab/
 ├── benchmark-suite/
 │   └── compare_all.py
 │
-├── interview-notes/
-│   └── (guides for portfolio discussion)
 │
 ├── ANALYSIS.md
 ├── LICENSE
@@ -70,7 +68,7 @@ Clustering-Algorithms-Lab/
 
 ---
 
-## ��� Algorithm Comparison
+## Algorithm Comparison
 
 | Aspect | K-Means Basic | K-Means++ | SymNMF |
 |--------|---|---|---|
