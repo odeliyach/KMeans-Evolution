@@ -203,31 +203,6 @@ Step 4: Iterate until convergence
 
 ---
 
-## Timeline
-
-```
-Implementation 1: v1 Basic K-Means
-  - 3-5 hours
-  - Pure C and Python
-  - Algorithm fundamentals
-
-Implementation 2: v2 K-Means++ Optimization
-  - 8-10 hours
-  - K-Means++ research
-  - C extension development
-  - Performance improvements
-
-Implementation 3: v3 SymNMF
-  - 10-15 hours
-  - Alternative algorithm research
-  - Matrix factorization implementation
-  - Comparative analysis
-
-Total: ~30 hours
-```
-
----
-
 ## What Each Version Teaches
 
 **v1**: How clustering algorithms work fundamentally
