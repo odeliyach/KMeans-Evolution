@@ -1,3 +1,5 @@
+<div align="center">
+
 # Clustering Algorithms Repository
 
 Comprehensive exploration of three clustering algorithms (Lloyd's K-Means, K-Means++, SymNMF) from foundations to advanced techniques. 5.5x performance optimization, hybrid Python-C architecture, and comparative analysis.
@@ -6,7 +8,8 @@ Comprehensive exploration of three clustering algorithms (Lloyd's K-Means, K-Mea
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![C](https://img.shields.io/badge/C-ANSI%20C99-green)
-![Speedup](https://img.shields.io/badge/Speedup-5.5x-orange)
+![Speedup](https://img.shields.io/badge/Speedup-5.5x-pink)
+</div>
 
 ---
 
@@ -185,14 +188,13 @@ See [`.github/workflows/ci.yml`](.github/workflows/ci.yml) for details.
 
 ---
 
-## 🚀 Status
-
-**Status**: ✅ Production Ready & Actively Maintained
-
-**Last Updated**: March 2026
-
-**Version**: 1.0.0
-
+**Happy clustering! 🎉**
 ---
 
-**Happy clustering! 🎉**
+<div align="center">
+
+Built by **Odeliya Charitonova** · [GitHub](https://github.com/odeliyach) · [LinkedIn](https://linkedin.com/in/odeliya-charitonova)
+
+*Computer Science student @ Tel Aviv University, School of CS & AI*
+
+</div>
