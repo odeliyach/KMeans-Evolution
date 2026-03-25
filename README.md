@@ -4,11 +4,14 @@
 
 Comprehensive exploration of three clustering algorithms (Lloyd's K-Means, K-Means++, SymNMF) from foundations to advanced techniques. 5.5x performance optimization, hybrid Python-C architecture, and comparative analysis.
 
-![CI](https://img.shields.io/github/actions/workflow/status/odeliyach/Clustering-Algorithms-Lab/ci.yml?label=CI&color=BAFFC9&logo=github-actions&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Complete-BAFFC9)
-![Python](https://img.shields.io/badge/Python-3.8+-FFD1A4?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-ANSI%20C99-B2B2FD?logo=c&logoColor=white)
-![Speedup](https://img.shields.io/badge/Speedup-5.5x-FFB3BA?logo=speedtest&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Complete-BAFFC9?style=for-the-badge&logo=checkmarx&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Python-3.8+-FFD1A4?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-ANSI%20C99-B2B2FD?logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Speedup-5.5x-FFB3BA?logo=speedtest&logoColor=white">
+</p>
+
 </div>
 
 ---
